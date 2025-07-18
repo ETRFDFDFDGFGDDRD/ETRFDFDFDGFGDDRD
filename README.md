@@ -2,7 +2,7 @@
 <h3 align="center"> from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ETRFDFDFDGFGDDRD/ETRFDFDFDGFGDDRD/edit/main/README.md">
 <p align="left"> <img src="original-66c59140d623b861799ea6b573cac886.gif">
-" alt="aqsa-isha" /> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
 

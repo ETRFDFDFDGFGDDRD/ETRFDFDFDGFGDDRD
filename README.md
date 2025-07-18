@@ -1,6 +1,6 @@
 <h1 align="center"> Muhammad Ayan</h1>
 <h3 align="center"> from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/ETRFDFDFDGFGDDRD/ETRFDFDFDGFGDDRD/edit/main/README.md">
+<img align="right" alt="coding" width="400" src"c:\Users\PC-15\Downloads\aqsa-isha-main\aqsa-isha-main\original-66c59140d623b861799ea6b573cac886.gif">
 <!-- <p align="left"> <img src="original-66c59140d623b861799ea6b573cac886.gif">
  -->
 
